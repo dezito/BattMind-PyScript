@@ -1,3 +1,5 @@
+> [!CAUTION]
+> Udviklingen er stoppet på PyScript versionen, brug [https://github.com/dezito/Cable-Juice-Planner-Integration](https://github.com/dezito/BattMind-Integration) i stedet for
 
 ## :warning: <mark>**Dette projekt er i alpha stadie**</mark> :warning:
 
